@@ -63,6 +63,10 @@ This project solves that problem by building a structured **EDA pipeline** and *
 - Jupyter Notebook / VS Code
 - Power BI Desktop
 - CSV File Format
+- 
+## 🐍 Python Version
+This project is built using **Python 3.11.9**.
+📌 Note: In the future, the project can be easily upgraded and version-locking is not mandatory. However, for best and consistent results (especially during deployment), using a version-locked `requirements.txt` is recommended.
 
 ---
 
